@@ -7,6 +7,7 @@ sessions.
 ---
 ### HW4.1
 
+- PatternQuestions2.java
 - RegularExample.java
 - test_3.txt
 
